@@ -1,5 +1,7 @@
 # Certified Kuberentes Administartor (CKA) Course
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/d751ffe4-10b0-4be0-91da-1188cf74db2e.svg?orgId=288883884012)](https://app.soluble.cloud/repos/details/github.com/dasalebr/certified-kubernetes-administrator-course?orgId=288883884012)  
+
 These are notes from the [Certified Kubernetes Administrator Course](https://kodekloud.com/courses/enrolled/539883) hosted on KodeKloud.
 
 # Sections
